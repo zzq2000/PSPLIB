@@ -1,0 +1,8 @@
+jobs_120_Gamma_5:   0%|          | 0/480 [00:00<?, ?it/s]jobs_120_Gamma_5:   0%|          | 1/480 [02:17<18:13:46, 137.01s/it]jobs_120_Gamma_5:   0%|          | 2/480 [04:58<20:04:22, 151.18s/it]jobs_120_Gamma_5:   1%|          | 3/480 [07:42<20:49:38, 157.19s/it]jobs_120_Gamma_5:   1%|          | 4/480 [10:26<21:08:57, 159.95s/it]jobs_120_Gamma_5:   1%|          | 5/480 [12:46<20:10:00, 152.84s/it]jobs_120_Gamma_5:   1%|¨‡         | 6/480 [15:30<20:37:08, 156.60s/it]jobs_120_Gamma_5:   1%|¨‡         | 7/480 [18:08<20:38:41, 157.13s/it]jobs_120_Gamma_5:   2%|¨‡         | 8/480 [20:09<19:05:05, 145.56s/it]jobs_120_Gamma_5:   2%|¨‡         | 9/480 [22:37<19:07:30, 146.18s/it]jobs_120_Gamma_5:   2%|¨‡         | 9/480 [23:00<20:04:10, 153.40s/it]
+Traceback (most recent call last):
+  File "C:\Users\zhuziqin\Documents\GitHub\PSPLIB\main.py", line 83, in <module>
+    costs1, model1 = mcCormick(
+    ^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+Interrupt request received
